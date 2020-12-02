@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kafkajs": "^1.15.0"
+    "http": "0.0.1-security",
+    "kafkajs": "^1.15.0",
+    "socket.io": "^3.0.3",
+    "winston": "^3.3.3"
   }
 }
